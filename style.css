@@ -1,0 +1,11 @@
+p{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.one{
+    background-color: #ff0707;
+}
+.opacity{
+    opacity:  0.5;
+}
